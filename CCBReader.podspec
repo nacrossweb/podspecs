@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
 	s.source_files = '**/*.{h,m,c}'
 	s.public_header_files = 'CCBReader/**/*.h', 'CCControlExtension/CCControlExtension.h', 'CCScrollView/CCScrollView.h', 'SSZipArchive/SSZipArchive.h' 
 
-	s.dependency 'cocos2d', 'develop-v2'
+	#s.dependency 'cocos2d', 'develop-v2'
 
 end
