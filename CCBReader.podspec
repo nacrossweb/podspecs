@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name         = 'CCBReader'
-	s.version      = 'master'
+	s.version      = '0.0.1'
 	s.summary      = 'CCBReader allows cocosbuilder files to be loaded in to cocos2d projects.'
 	s.homepage     = 'https://github.com/cocos2d/CCBReader'
 	s.license      = {
